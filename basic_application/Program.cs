@@ -2,6 +2,15 @@
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.Write("Enter your name: ");
+        var name = Console.ReadLine();
+        
+        if (name != null) {
+            Console.WriteLine($"My name is {name}.");
+        }
+        else
+        {
+            Console.WriteLine("Goodbye!");
+        }
     }
 }
