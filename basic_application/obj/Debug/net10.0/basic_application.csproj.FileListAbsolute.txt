@@ -1,0 +1,15 @@
+D:\Chanrith\Project\Software Development\.NET Project\.NET 10\Programming Language\BasicApplication\basic_application\basic_application\bin\Debug\net10.0\basic_application.exe
+D:\Chanrith\Project\Software Development\.NET Project\.NET 10\Programming Language\BasicApplication\basic_application\basic_application\bin\Debug\net10.0\basic_application.deps.json
+D:\Chanrith\Project\Software Development\.NET Project\.NET 10\Programming Language\BasicApplication\basic_application\basic_application\bin\Debug\net10.0\basic_application.runtimeconfig.json
+D:\Chanrith\Project\Software Development\.NET Project\.NET 10\Programming Language\BasicApplication\basic_application\basic_application\bin\Debug\net10.0\basic_application.dll
+D:\Chanrith\Project\Software Development\.NET Project\.NET 10\Programming Language\BasicApplication\basic_application\basic_application\bin\Debug\net10.0\basic_application.pdb
+D:\Chanrith\Project\Software Development\.NET Project\.NET 10\Programming Language\BasicApplication\basic_application\basic_application\obj\Debug\net10.0\basic_application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chanrith\Project\Software Development\.NET Project\.NET 10\Programming Language\BasicApplication\basic_application\basic_application\obj\Debug\net10.0\basic_application.AssemblyInfoInputs.cache
+D:\Chanrith\Project\Software Development\.NET Project\.NET 10\Programming Language\BasicApplication\basic_application\basic_application\obj\Debug\net10.0\basic_application.AssemblyInfo.cs
+D:\Chanrith\Project\Software Development\.NET Project\.NET 10\Programming Language\BasicApplication\basic_application\basic_application\obj\Debug\net10.0\basic_application.csproj.CoreCompileInputs.cache
+D:\Chanrith\Project\Software Development\.NET Project\.NET 10\Programming Language\BasicApplication\basic_application\basic_application\obj\Debug\net10.0\basic_application.dll
+D:\Chanrith\Project\Software Development\.NET Project\.NET 10\Programming Language\BasicApplication\basic_application\basic_application\obj\Debug\net10.0\refint\basic_application.dll
+D:\Chanrith\Project\Software Development\.NET Project\.NET 10\Programming Language\BasicApplication\basic_application\basic_application\obj\Debug\net10.0\basic_application.pdb
+D:\Chanrith\Project\Software Development\.NET Project\.NET 10\Programming Language\BasicApplication\basic_application\basic_application\obj\Debug\net10.0\basic_application.genruntimeconfig.cache
+D:\Chanrith\Project\Software Development\.NET Project\.NET 10\Programming Language\BasicApplication\basic_application\basic_application\obj\Debug\net10.0\ref\basic_application.dll
+D:\Chanrith\Project\Software Development\.NET Project\.NET 10\Programming Language\BasicApplication\basic_application\basic_application\obj\Debug\net10.0\basic_application.sourcelink.json
