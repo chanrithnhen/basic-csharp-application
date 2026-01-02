@@ -1,16 +1,10 @@
-﻿public class Program
+﻿using basic_application.OOP;
+
+class Program
 {
-    public static void Main(string[] args)
+    static void Main(string[] args)
     {
-        Console.Write("Enter your name: ");
-        var name = Console.ReadLine();
-        
-        if (name != null) {
-            Console.WriteLine($"My name is {name}.");
-        }
-        else
-        {
-            Console.WriteLine("Goodbye!");
-        }
+        Run result = new Run();
+        result.Show();
     }
 }
