@@ -4,6 +4,7 @@ class Result
 {
     public void Show()
     {
-        Console.WriteLine("Show Result...");
+        Run run = new Run();
+        run.Show();
     }
 }
