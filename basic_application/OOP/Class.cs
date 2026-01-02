@@ -1,14 +1,24 @@
 ﻿namespace basic_application.OOP;
 
-class Car // The blueprint
+class ClassName
 {
-    // Field or Attribute
-    public string? Color;
-    public int Speed;
+    
+}
 
-    // Method or Behavior
-    public void Drive()
+abstract class AbstractClass
+{
+    public abstract void Display();
+}
+
+class Person // Class
+{
+    // Field
+    public string? Name { get; set; }
+    public int Age { get; set; }
+
+    // Method
+    public void Show()
     {
-        Console.WriteLine($"The {Color} car is driving at {Speed} mph.");
+        Console.WriteLine($"Name: {Name}, Age: {Age}");
     }
 }
