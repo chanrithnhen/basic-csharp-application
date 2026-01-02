@@ -4,7 +4,10 @@ class Program
 {
     static void Main(string[] args)
     {
-        Run result = new Run();
+        Run run = new Run();
+        run.Show();
+
+        Result result = new Result();
         result.Show();
     }
 }
